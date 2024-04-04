@@ -475,22 +475,22 @@ ion-icon {
 .nav.fa{
     display: none;
 }
-@media only screen and (min-width: 768px){
+@media(max-width: 700px){
     .cta{
-        font-size: 2.5rem;
+        font-size: 20px;
         padding: 20px 60px;
     }
     h1 music-title{
-        font-size: 6rem;
+        font-size: 20px;
     }
     h1 projects-title{
-        font-size: 6rem;
+        font-size: 20px;
     }
     h1 about-title{
-        font-size: 6rem;
+        font-size: 20px;
     }
     h1 about-title{
-        font-size: 6rem;
+        font-size: 20px;
     }
 }
 
